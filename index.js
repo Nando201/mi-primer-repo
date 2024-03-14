@@ -3,5 +3,5 @@ const app = express()
 
 app.get('/', (req,res) =>{
     console.log(req)
-    res.send('Aqui esta tu pagina')    
+    res.send('Esta es tu nueva pagina')    
 })
