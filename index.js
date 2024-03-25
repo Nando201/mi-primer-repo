@@ -1,1 +1,1 @@
-alert('Nuevos cambios en el repositorio')
+console.log('Nuevos cambios)
